@@ -356,6 +356,18 @@ setInterval(getClock, 1000);
 - forEach
     - item
 - arrow function
+```
+(param1, param2, …, paramN) => { statements }
+(param1, param2, …, paramN) => expression
+// 다음과 동일함:  => { return expression; }
+
+// 매개변수가 하나뿐인 경우 괄호는 선택사항:
+(singleParam) => { statements }
+singleParam => { statements }
+
+// 매개변수가 없는 함수는 괄호가 필요:
+() => { statements }
+```
 
 ### 7.6
 - Date.now() for random ID
