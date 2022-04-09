@@ -1,32 +1,32 @@
-# momentum note
-JS Study - 바닐라 JS로 크롬 앱 만들기
+# JS Study note
+- Objective: 바닐라 JS로 크롬 앱 만들기
 
 ### 1.4
-JS를 배워야 하는 이유
-- 프론트엔드에 쓸 수 있는 유일한 프로그래밍 언어
-    - 브라우저에 내장
-- socket.io
-    - 채팅, 실시간 기능
+- JS를 배워야 하는 이유
+    - 프론트엔드에 쓸 수 있는 유일한 프로그래밍 언어
+        - 브라우저에 내장
+    - socket.io
+        - 채팅, 실시간 기능
 
 ### 2.0
-vscode tip
-- code project_name
-- !
-- link:css
-JS는 맨 끝에서 link
+- vscode tip
+    - code project_name (in terminal)
+    - ! (HTML 기본 구조 자동완성)
+    - link:css
+- JS는 맨 끝에서 link
 
 ### 2.2
-console.log()
-variable
-- const (always)
-- let (sometimes)
-- var (never)
-    - 구버전
-    - 언어를 통한 보호를 받지 못함
-    - 실수로 값을 업데이트 해도 알아차릴 수 없음
-- naming
-    - camelCase
-        - 공백이 필요하다면 다음 단어의 첫 문자를 대문자로 씀
+- console.log()
+- variable
+    - const (always)
+    - let (sometimes)
+    - var (never)
+        - 구버전
+        - 언어를 통한 보호를 받지 못함
+        - 실수로 값을 업데이트 해도 알아차릴 수 없음
+    - naming
+        - camelCase
+            - 공백이 필요하다면 다음 단어의 첫 문자를 대문자로 씀
 
 ### 2.4
 - null : 값이 없음이 선언됨
